@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 添加/编辑 分组 -->
+    <string-array name="group_list">
+        <item>家人</item>
+        <item>朋友</item>
+        <item>同事</item>
+        <item>其他</item>
+    </string-array>
+
+    <!-- 主界面 筛选分组 -->
+    <string-array name="group_filter_list">
+        <item>全部联系人</item>
+        <item>家人</item>
+        <item>朋友</item>
+        <item>同事</item>
+        <item>其他</item>
+    </string-array>
+</resources>
